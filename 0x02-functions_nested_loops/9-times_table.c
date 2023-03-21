@@ -29,7 +29,7 @@ void times_table(void)
 			 * place the first digit if its two
 			 *      numbers
 			*/
-			if (prod <= 0)
+			if (prod <= 9)
 				_putchar(' ');
 			else
 				_putchar((prod / 10) + 48);

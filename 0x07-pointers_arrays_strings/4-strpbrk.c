@@ -24,9 +24,9 @@ char *_strpbrk(char *s, char *accept)
 				p = &s[itr];
 				return (p);
 			}
-			jtr++
+			jtr++;
 		}
-		itr++
+		itr++;
 	}
 	return (0);
 }

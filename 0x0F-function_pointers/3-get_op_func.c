@@ -1,4 +1,4 @@
-#include "3-calc.h"
+#include "calc.h"
 
 /*get_op_func - returns pointer to right op func
  * @s: string operator

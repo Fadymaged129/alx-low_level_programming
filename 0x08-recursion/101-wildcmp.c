@@ -3,6 +3,7 @@
 /**
  * move_past_start - past asterik
  * @s2: the second string, can contain wildcmp
+ * Description: fajhabnsbbs
  *
  * Return: the pointer past star
  */

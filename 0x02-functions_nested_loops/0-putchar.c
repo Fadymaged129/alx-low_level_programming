@@ -1,7 +1,10 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * main - entry point
+ *
+ * Description: it print putchar
  *
  * Return: 0 (success)
 */
